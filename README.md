@@ -1,1 +1,1 @@
-In the video, we used signals from all channels to estimate  finger joint angles.
+The video of the real-time control experiment based on our decoding method is in this compressed file.
